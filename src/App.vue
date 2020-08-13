@@ -31,7 +31,13 @@
         href="#"
         text
       >
-        <v-icon>mdi-open-in-new</v-icon>
+        <v-icon>mdi-home</v-icon>
+      </v-btn>
+      <v-btn
+        href="#"
+        text
+      >
+        <v-icon>mdi-plus-box</v-icon>
       </v-btn>
     </v-app-bar>
 
